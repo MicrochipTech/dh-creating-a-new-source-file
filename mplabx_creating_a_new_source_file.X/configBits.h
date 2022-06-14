@@ -1,4 +1,6 @@
 /* 
+ * (c) 2022 Microchip Technology Inc. and its subsidiaries
+ *
  * File:   configBits.h
  * Author: root
  *
