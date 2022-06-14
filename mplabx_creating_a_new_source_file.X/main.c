@@ -1,5 +1,5 @@
 /*
- * (c) 2022 Microchip Technology Inc. and its subsidiaries
+ * Copyright (C) 2022 Microchip Technology Inc. and its subsidiaries
  *
  * File:   main.c
  * Author: root
